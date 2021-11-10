@@ -1,18 +1,6 @@
 {
   "plants": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
-    {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
-    },
-    {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
@@ -41,6 +29,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "asdkjfdf",
+      "image": "dfdfdf",
+      "price": "111",
+      "id": 8
+    },
+    {
+      "name": "Luis A Escobar",
+      "image": "ss",
+      "price": "0.05",
+      "id": 9
+    },
+    {
+      "name": "Luis A Escobar",
+      "image": "ss",
+      "price": "0.05",
+      "id": 10
+    },
+    {
+      "name": "Luis A Escobar",
+      "image": "ss",
+      "price": "0.05",
+      "id": 11
+    },
+    {
+      "name": "Luis A Escobar",
+      "image": "ss",
+      "price": "0.05",
+      "id": 12
+    },
+    {
+      "name": "Luis A Escobar",
+      "image": "ss",
+      "price": "0.05",
+      "id": 13
     }
   ]
 }
